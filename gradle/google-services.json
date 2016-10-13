@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "350003386374",
+    "firebase_url": "https://lakatitas-74419.firebaseio.com",
+    "project_id": "lakatitas-74419",
+    "storage_bucket": "lakatitas-74419.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:350003386374:android:9166cef4f62fd061",
+        "android_client_info": {
+          "package_name": "br.com.bsti.lakatitas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "350003386374-s0j5tvqdmacso5ppkaihcpd41i5j7vem.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTRKJl2-CexQ5ub7sbTpjjV_3qSmU8Cyo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
